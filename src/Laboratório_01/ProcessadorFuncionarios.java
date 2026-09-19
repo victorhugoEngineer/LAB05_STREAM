@@ -1,4 +1,4 @@
-package model;
+package Laboratório_01;
 
 import java.util.Arrays;
 import java.util.List;

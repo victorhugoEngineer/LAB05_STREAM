@@ -1,4 +1,4 @@
-package model;
+package Laboratório_01;
 
 public class Funcionario {
     private String nome;
